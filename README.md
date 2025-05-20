@@ -94,7 +94,7 @@ mcp install src/intervals_mcp_server/server.py --name "Intervals.icu MCP Server"
         "mcp[cli]",
         "mcp",
         "run",
-        "/path/to/intervals-mcp-server/src/intervals_mcp_server/server.py"
+        "/path/to/intervals-mcp-server/src/intervals_mcp_server/main.py"
       ]
     }
   }
